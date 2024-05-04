@@ -4,6 +4,8 @@
 This repository contains an AI garbage classification model built using a Deep Learning Convolutional Neural Network (CNN). The model takes an image of garbage, scans it, and predicts the type of waste among four categories: recyclable, e-waste, organic waste, and biomedical waste.
 <img width="947" alt="wasteclassify1" src="https://github.com/Sahaji-2003/AI-Garbage-Classification-Model/assets/130205533/dfec76b9-7966-4320-ad87-76408a8c3d24">
 <img width="947" alt="wasteclassify2" src="https://github.com/Sahaji-2003/AI-Garbage-Classification-Model/assets/130205533/1aa03722-2ae6-49c6-b279-ab3b43e36d5c">
+<img width="947" alt="wasteclassify3" src="https://github.com/Sahaji-2003/AI-Garbage-Classification-Model/assets/130205533/7fa2a258-c08a-4f2d-b808-ac145f23318e">
+
 
 
 ## Overview
